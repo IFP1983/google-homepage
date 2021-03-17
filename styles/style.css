@@ -1,4 +1,3 @@
-p {
-    text-align: center;
-    color: red;
-  }
+#nav {
+    justify-content: flex-end;
+}
